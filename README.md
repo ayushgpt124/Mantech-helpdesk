@@ -22,4 +22,4 @@ With Mantech HelpDesk you can easily receive, track, manage, and resolve complai
 - Google Analytics
 
 ## Some Screenshots
-![1](https://drive.google.com/file/d/14INrEp6pU9ORZUIEXDEdC8Zx7fNkwoHC/view?usp=sharing)
+![1](WebContent.png)
